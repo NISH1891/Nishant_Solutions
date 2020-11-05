@@ -1,4 +1,4 @@
-# A
+# Problems
 Problem 1: Attached, stock tickers of a few DOW companies for two quarters. 
 If percentage week-over-week gain/loss of the opening price is a key performance indicator, which tickers -- in 
 descending order -- are the leaders and laggers in the portfolio averaged across all the quarters. (Tests data engineering/shaping skills)
